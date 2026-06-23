@@ -34,6 +34,3 @@ The longer you last, the higher your score.
 
 In active development — this is a class prototype project.
 
-## Documentation
-
-Full Game Design Document included in the repo: `BallRunner_GDD.docx`
